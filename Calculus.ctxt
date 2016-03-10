@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=storeArray\ n
+comment0.target=double\ Definite(java.util.ArrayList,\ int)
+comment1.params=n
+comment1.target=double\ Diff(int)
+numComments=2

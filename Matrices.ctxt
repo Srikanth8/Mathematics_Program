@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=row\ clm
+comment0.target=double[][]\ Input(int,\ int)
+comment1.params=
+comment1.target=double[][]\ Multiply()
+comment2.params=
+comment2.target=double[][]\ Addition()
+comment3.params=
+comment3.target=double[][]\ Subtraction()
+comment4.params=
+comment4.target=double[][]\ MultiplyConstant()
+comment5.params=
+comment5.target=double\ Determinant()
+numComments=6
